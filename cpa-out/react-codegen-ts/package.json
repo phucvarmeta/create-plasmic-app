@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@plasmicapp/cli": "^0.1.335",
+    "@plasmicapp/cli": "github:phucvarmeta/plasmic-cli",
+    ,
     "@plasmicapp/react-web": "^0.2.366",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

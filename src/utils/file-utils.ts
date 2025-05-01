@@ -1,7 +1,7 @@
 import type {
   ComponentConfig,
   PlasmicConfig,
-} from "@plasmicapp/cli/dist/utils/config-utils";
+} from "@plasmicapp/cli/src/utils/config-utils";
 import { existsSync, promises as fs, unlinkSync } from "fs";
 import glob from "glob";
 import L from "lodash";
